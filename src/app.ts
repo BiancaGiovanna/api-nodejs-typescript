@@ -12,9 +12,11 @@ import db from '../config/db'
 
 import router from "./router";
 
+import Logger from "../config/logger";
+
 app.use("/api/", router)
 
 app.listen(port, async () => {
   await db();
-  console.log('app run')
+  Logger.info('app run')
 });

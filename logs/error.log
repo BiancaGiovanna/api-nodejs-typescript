@@ -1,0 +1,16 @@
+2023-07-04 22:39:58:3958 - [31merror[39m: [31mNão foi possivel a conexão[39m
+2023-07-04 22:39:58:3958 - [31merror[39m: [31mError: MongoParseError: URI contained empty userinfo section[39m
+2023-07-04 22:52:08:528 - [31merror[39m: [31mNão foi possivel a conexão[39m
+2023-07-04 22:52:08:528 - [31merror[39m: [31mError: MongoServerError: bad auth : authentication failed[39m
+2023-07-04 22:52:16:5216 - [31merror[39m: [31mNão foi possivel a conexão[39m
+2023-07-04 22:52:16:5216 - [31merror[39m: [31mError: MongoServerError: bad auth : authentication failed[39m
+2023-07-04 22:52:28:5228 - [31merror[39m: [31mNão foi possivel a conexão[39m
+2023-07-04 22:52:28:5228 - [31merror[39m: [31mError: MongoServerError: bad auth : authentication failed[39m
+2023-07-04 22:53:17:5317 - [31merror[39m: [31mNão foi possivel a conexão[39m
+2023-07-04 22:53:17:5317 - [31merror[39m: [31mError: MongoServerError: bad auth : authentication failed[39m
+2023-07-04 22:54:11:5411 - [31merror[39m: [31mNão foi possivel a conexão[39m
+2023-07-04 22:54:11:5411 - [31merror[39m: [31mError: MongoServerError: bad auth : authentication failed[39m
+2023-07-04 22:54:33:5433 - [31merror[39m: [31mNão foi possivel a conexão[39m
+2023-07-04 22:54:33:5433 - [31merror[39m: [31mError: MongoServerError: bad auth : authentication failed[39m
+2023-07-04 22:54:55:5455 - [31merror[39m: [31mNão foi possivel a conexão[39m
+2023-07-04 22:54:55:5455 - [31merror[39m: [31mError: MongoServerError: bad auth : authentication failed[39m

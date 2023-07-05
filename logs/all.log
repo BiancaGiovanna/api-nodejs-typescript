@@ -9,3 +9,57 @@
 2023-07-04 21:47:06:476 - [32minfo[39m: [32mapp run[39m
 2023-07-04 21:47:16:4716 - [32minfo[39m: [32mapp run[39m
 2023-07-04 21:47:27:4727 - [32minfo[39m: [32mapp run[39m
+2023-07-04 21:48:15:4815 - [32minfo[39m: [32mapp run[39m
+2023-07-04 21:53:59:5359 - [32minfo[39m: [32mapp run[39m
+2023-07-04 21:54:16:5416 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:20:39:2039 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:21:40:2140 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:21:54:2154 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:32:21:3221 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:32:29:3229 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:33:06:336 - [32minfo[39m: [32mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-07-04 22:33:41:3341 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:33:44:3344 - [32minfo[39m: [32mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-07-04 22:38:18:3818 - [32minfo[39m: [32mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-07-04 22:39:58:3958 - [31merror[39m: [31mNão foi possivel a conexão[39m
+2023-07-04 22:39:58:3958 - [31merror[39m: [31mError: MongoParseError: URI contained empty userinfo section[39m
+2023-07-04 22:39:58:3958 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:40:12:4012 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:40:16:4016 - [32minfo[39m: [32mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-07-04 22:41:12:4112 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:41:14:4114 - [32minfo[39m: [32mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-07-04 22:45:10:4510 - [32minfo[39m: [32mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-07-04 22:52:08:528 - [31merror[39m: [31mNão foi possivel a conexão[39m
+2023-07-04 22:52:08:528 - [31merror[39m: [31mError: MongoServerError: bad auth : authentication failed[39m
+2023-07-04 22:52:08:528 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:52:16:5216 - [31merror[39m: [31mNão foi possivel a conexão[39m
+2023-07-04 22:52:16:5216 - [31merror[39m: [31mError: MongoServerError: bad auth : authentication failed[39m
+2023-07-04 22:52:16:5216 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:52:28:5228 - [31merror[39m: [31mNão foi possivel a conexão[39m
+2023-07-04 22:52:28:5228 - [31merror[39m: [31mError: MongoServerError: bad auth : authentication failed[39m
+2023-07-04 22:52:28:5228 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:53:17:5317 - [31merror[39m: [31mNão foi possivel a conexão[39m
+2023-07-04 22:53:17:5317 - [31merror[39m: [31mError: MongoServerError: bad auth : authentication failed[39m
+2023-07-04 22:53:17:5317 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:54:11:5411 - [31merror[39m: [31mNão foi possivel a conexão[39m
+2023-07-04 22:54:11:5411 - [31merror[39m: [31mError: MongoServerError: bad auth : authentication failed[39m
+2023-07-04 22:54:11:5411 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:54:33:5433 - [31merror[39m: [31mNão foi possivel a conexão[39m
+2023-07-04 22:54:33:5433 - [31merror[39m: [31mError: MongoServerError: bad auth : authentication failed[39m
+2023-07-04 22:54:33:5433 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:54:55:5455 - [31merror[39m: [31mNão foi possivel a conexão[39m
+2023-07-04 22:54:55:5455 - [31merror[39m: [31mError: MongoServerError: bad auth : authentication failed[39m
+2023-07-04 22:54:55:5455 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:55:10:5510 - [32minfo[39m: [32mapp run[39m
+2023-07-04 22:59:47:5947 - [32minfo[39m: [32mapp run[39m
+2023-07-04 23:03:02:32 - [32minfo[39m: [32mapp run[39m
+2023-07-04 23:04:08:48 - [32minfo[39m: [32mapp run[39m
+2023-07-04 23:04:16:416 - [32minfo[39m: [32mapp run[39m
+2023-07-04 23:04:28:428 - [32minfo[39m: [32mapp run[39m
+2023-07-04 23:05:43:543 - [32minfo[39m: [32mapp run[39m
+2023-07-04 23:06:42:642 - [32minfo[39m: [32mapp run[39m
+2023-07-04 23:06:54:654 - [32minfo[39m: [32mapp run[39m
+2023-07-04 23:07:07:77 - [32minfo[39m: [32mapp run[39m
+2023-07-04 23:08:38:838 - [32minfo[39m: [32mapp run[39m
+2023-07-04 23:08:49:849 - [32minfo[39m: [32mapp run[39m
+2023-07-04 23:10:55:1055 - [32minfo[39m: [32mapp run[39m

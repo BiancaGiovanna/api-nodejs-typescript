@@ -14,7 +14,13 @@ import router from "./router";
 
 import Logger from "../config/logger";
 
+import morganMiddleware from "./middleware/morganMiddlewate";
+
+app.use(morganMiddleware)
+
 app.use("/api/", router)
+
+
 
 app.listen(port, async () => {
   await db();
